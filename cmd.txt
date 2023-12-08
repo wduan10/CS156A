@@ -1,0 +1,2 @@
+export PATH=/Library/TeX/texbin:$PATH
+jupyter nbconvert HW3.ipynb --to pdf
